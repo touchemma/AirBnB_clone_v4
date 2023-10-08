@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ibrahim Amir Gambo
+Emmanuel Osita Nwoke
 
 Second part of Airbnb: Oyoho Akpan
 ## License
